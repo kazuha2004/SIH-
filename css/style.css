@@ -127,7 +127,7 @@ a:focus {
 
 .sub_page .hero_area {
   min-height: auto;
-  background: linear-gradient(130deg, #231a6f, #0f054c);
+  background: linear-gradient(130deg, black, #5a5a5f);
 }
 
 .sub_page .hero_area .hero_bg_box {
@@ -483,7 +483,7 @@ a:focus {
 }
 
 .about_section {
-  background-color: #00204a;
+  background: linear-gradient(130deg, black, #5a5a5f);
   color: #ffffff;
 }
 
@@ -602,7 +602,7 @@ a:focus {
 /*team section */
 .team_section {
   text-align: center;
-  background-color: #00204a;
+  background: linear-gradient(130deg, black, #5a5a5f);
   color: #ffffff;
 }
 
@@ -624,7 +624,7 @@ a:focus {
   transition: all .1s;
   margin-top: 45px;
   background: -webkit-gradient(linear, left top, left bottom, from(#002759), to(#002b64));
-  background: linear-gradient(to bottom, #002759, #002b64);
+  background: black;
 }
 
 .team_section .team_container .box .img-box {
